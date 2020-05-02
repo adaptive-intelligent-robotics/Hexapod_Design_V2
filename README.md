@@ -4,3 +4,9 @@ The design of the Hexapod V2.0 is directly available on the Fusion360 cloud. Thi
 https://a360.co/35rd3SD
 
 ![picture_hexapod](hexapod_render.png)
+
+
+Contributor: 
+Antoine Cully, Imperial College London.
+
+The leg design was originally designed by Florian Richer (ISIR, Sorbonne université), and has been adapted to this new design.
