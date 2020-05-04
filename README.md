@@ -5,8 +5,12 @@ https://a360.co/35rd3SD
 
 ![picture_hexapod](hexapod_render.png)
 
+## Bill of Materials
 
-Contributor: 
+[Bill of Materials](bill_of_materials.md)
+
+
+## Contributors
 Antoine Cully, Imperial College London.
 
 The leg design was originally designed by Florian Richer (ISIR, Sorbonne université), and has been adapted to this new design.
