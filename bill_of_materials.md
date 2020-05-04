@@ -8,5 +8,7 @@
 | 12mm (10mm) Pultruded Carbon Fibre Tube | 12 x 150mm     |   [www.easycomposites.co.uk](https://www.easycomposites.co.uk/#!/cured-carbon-fibre-products/carbon-fibre-tube/pultruded-carbon-fibre-tube/pultruded-carbon-fibre-tube-12mm-10mm.html)|
 | 3D printed leg parts (Bouchon, tip,  | 6 | I used [Sculpteo's glass-filled-nylon-material](https://www.sculpteo.com/en/materials/sls-material/glass-filled-nylon-material/) |
 | Door Stopper Rubber 10 x 20 mm |6| [www.amazon.co.uk](https://www.amazon.co.uk/dp/B01LET5XLG/ref=cm_sw_em_r_mt_dp_U_4--REbQNRPA9A )|
-| 6 port ax/mx power hub | 1 | [www.robosavvy.com](https://robosavvy.com/store/6-port-ax-mx-power-hub.html)
-| Robotis - Dynamixel AX/MX 3Pin Bus Hub | 2 | [www.robosavvy.com](https://robosavvy.com/store/robotis-dynamixel-ax-mx-3pin-bus-hub.html)
+| 6 port ax/mx power hub | 1 | [www.robosavvy.com](https://robosavvy.com/store/6-port-ax-mx-power-hub.html)|
+| Robotis - Dynamixel AX/MX 3Pin Bus Hub | 2 | [www.robosavvy.com](https://robosavvy.com/store/robotis-dynamixel-ax-mx-3pin-bus-hub.html|
+
+Note: I haven't added the cables, screws, nuts in the BoM. This might be added in the future. 
